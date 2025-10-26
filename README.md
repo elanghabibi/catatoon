@@ -25,7 +25,7 @@ Built with simplicity and productivity in mind, Catatoon brings a clean UI and r
 ## Preview
 Here’s a sneak peek of **Catatoon**!  
 
-<img src="preview-web.gif" style="width: 100%; height: 100%; object-fit: cover;">
+<img src="preview-web.gif" style="width: 70%;">
 ---
 
 ## About the Project
