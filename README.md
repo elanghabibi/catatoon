@@ -36,7 +36,7 @@ You can try the live demo using the following credentials:
 - **Username:** `guest`  
 - **Password:** `guest`
 
-Feel free to explore the features, navigate around, and test how everything works!
+[Try now!](http://catatoon.diskon.com)
 
 ---
 
