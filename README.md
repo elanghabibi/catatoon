@@ -29,6 +29,17 @@ Here’s a sneak peek of **Catatoon**!
 
 ---
 
+## 🚀 Live Demo
+
+You can try the live demo using the following credentials:
+
+- **Username:** `guest`  
+- **Password:** `guest`
+
+Feel free to explore the features, navigate around, and test how everything works!
+
+---
+
 ## About the Project
 Catatoon was developed as a personal project to explore dynamic web development concepts — combining front-end and back-end logic for a smooth note management experience.
 
